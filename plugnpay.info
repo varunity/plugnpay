@@ -1,0 +1,6 @@
+; $Id$
+name = Plug N Pay
+description = TODO: Description of module
+
+dependencies[] = ubercart
+core = 6.x
